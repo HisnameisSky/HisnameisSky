@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Web/Application development.
 - 📫 How to reach me: HisnameisSky@Gmail.com
 - 😄 Pronouns: ??
-- ⚡ Fun fact: Understands 3 languages at proficient level (CEFR C2).
+- ⚡ Fun fact: Trilingual
 
 <!---
 HisnameisSky/HisnameisSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
