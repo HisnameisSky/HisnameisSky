@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Self development, realization & innovation.
 - 🌱 I’m currently learning: SwiftUI.
 - 💞️ I’m looking to collaborate on: Web/Application development.
-- 📫 How to reach me: HisnameisSky@Gmail.com
+- 📫 How to reach me: HisnameisSky✦Gmail.com
 - 😄 Pronouns: ??
 - ⚡ Fun fact: Trilingual
 
